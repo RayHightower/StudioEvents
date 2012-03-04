@@ -1,4 +1,4 @@
-Cloned from Pragmatic Studios
+Forked from Pragmatic Studios
 =======================
 
 RayHightower forked this app from https://github.com/clarkware/StudioEvents on 3/4/2012.
